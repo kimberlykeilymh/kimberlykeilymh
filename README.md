@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I’m Kimberly
+
+- 💻 I’ve been coding for over 7 years
+- 🌱 I’m currently learning React and AWS
+- 👯 I’m looking to collaborate on open source Ruby projects
 
 <!--
 **kimberlykeilymh/kimberlykeilymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
